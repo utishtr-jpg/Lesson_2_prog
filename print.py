@@ -1,0 +1,5 @@
+print("Welcome to lesson 2!")
+print(4)
+print("This is the number 5\n that has just been shown!")
+print("Today is a good day!",6)
+print("Welcome to ",end="*@#$")
