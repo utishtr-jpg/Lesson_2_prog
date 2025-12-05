@@ -1,0 +1,8 @@
+print("This program is to calculate the area and perimeter of a 4 sided shape!")
+length= int(input("Please choose the length of the shape!"))
+width= int(input("Please enter the width of your shape!"))
+area= (length*width)
+prmtr=((length+width)*2)
+print("The perimeter of your shape is",prmtr,"!")
+print("The area of your shape is",area,"!")
+print("Have a GREAT rest of your day!")
